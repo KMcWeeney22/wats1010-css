@@ -6,6 +6,11 @@ html{
 body {
   font-family: serif;
 }
+div{
+  width: 1247px;
+  height: auto;
+  position: relative;
+}
 aside{
   float: right;
   margin-top:20px;
